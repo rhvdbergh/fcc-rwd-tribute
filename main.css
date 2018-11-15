@@ -9,11 +9,28 @@ img {
   margin: auto;
 }
 
+#caption-flex {
+  display: flex;
+  align-items: center;
+}
+
+.caption-pad {
+  background-color: red;
+}
+
 #img-caption {
   text-align: center;
 }
 
 #tribute-info {
+  font-size: 1.3em;
   text-align: center;
+  padding: 50px 15% 0 15%;
 }
+
+#learn-more {
+  padding-right: 20%;
+  text-align: right;
+}
+
 
