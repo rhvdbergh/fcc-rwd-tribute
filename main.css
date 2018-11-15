@@ -9,15 +9,6 @@ img {
   margin: auto;
 }
 
-#caption-flex {
-  display: flex;
-  align-items: center;
-}
-
-.caption-pad {
-  background-color: red;
-}
-
 #img-caption {
   text-align: center;
 }
